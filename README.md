@@ -1,6 +1,6 @@
-### Javascript ###
+## Javascript ##
 
-## Audio ##
+### Audio ###
 
 #### Pizzicato.js ####
 A web audio Javascript Library<br/>
