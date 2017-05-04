@@ -1,5 +1,11 @@
 ## Javascript ##
 
+### Utils ###
+
+#### AcrossTabs ####
+Easy communication between cross-origin browser tabs<br/>
+<https://github.com/wingify/across-tabs>
+
 ### Audio ###
 
 #### Pizzicato.js ####
